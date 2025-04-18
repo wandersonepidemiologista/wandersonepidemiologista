@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandersonepidemiologista&label=Profile%20views&color=0e75b6&style=flat" alt="wandersonepidemiologista" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wandersonepidemiologista" alt="wandersonepidemiologista" /></a> </p>
-
 - 🔭 I’m currently working on **Evidence-based medicine (EBM)**
 
 - 🌱 I’m currently learning **Data Science and Analytics**
